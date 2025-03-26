@@ -1,7 +1,7 @@
 ---
 profesor:
   - Marcos Giagnorio
-  - Ivan
+  - Ivan Woscoff
 tags:
   - DIRPROY
   - 1C
