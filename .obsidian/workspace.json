@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "6fbe16fb5ef65ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e19df4ce77e5049",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70adcbebef77f685",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bca606c977bda345",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cdae7389eb2a8dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eff531aa3e6f0b6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fdc874ce22e35e9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#1C",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05f3e4e53563334f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "409238b84c90cf07",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5a7871ba4debf52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3795bc7195a79d2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4bdb0649625c0a9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5765b8d30755c6d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2ce641c06749eac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "af0705545820c297",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "395b5c09600d329e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 729.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "70adcbebef77f685",
+  "lastOpenFiles": [
+    "01 - University/U02 - Subjects/Trabajo de Grado/TG - Overview.md",
+    "01 - University/U01 - Overview.md",
+    "GENERAL OVERVIEW.md",
+    "00 - Meta/Templates/T05 - Overview.md",
+    "00 - Meta/Templates/s.md",
+    "test.md",
+    "Untitled.md",
+    "01 - University/U02 - Subjects/Lab 4/LAB4 - Overview.md",
+    "01 - University/U02 - Subjects/Sistemas Distribuidos/SD - Overview.md",
+    "01 - University/U02 - Subjects/Sistemas Distribuidos",
+    "01 - University/U02 - Subjects/Lab 4",
+    "01 - University/U02 - Subjects/Investigacion Operativa/IO - Overview.md",
+    "01 - University/Profesores.md",
+    "01 - University/U02 - Subjects/Algebra III/ALG - Overview.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/DIRPROY - Overview.md",
+    "01 - University/U02 - Subjects/Fisica Electro/ELECTRO - Overview.md",
+    "01 - University/U02 - Subjects/Microeconomia/MIC - Overview.md",
+    "01 - University/U02 - Subjects/PPS/PPS - Overview.md",
+    "01 - University/U02 - Subjects/Algebra III/Clases/2025-03-24 .md",
+    "00 - Meta/Templates/T04 - Clases.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Clases/2025-03-24 .md",
+    "01 - University/U02 - Subjects/Investigacion Operativa/Clases/2025-03-24 .md",
+    "01 - University/U02 - Subjects/Algebra III/Clases/1.md",
+    "01 - University/U02 - Subjects/Investigacion Operativa/Clases",
+    "01 - University/U02 - Subjects/Microeconomia/Clases",
+    "01 - University/U02 - Subjects/Fisica Electro/Clases",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Clases",
+    "01 - University/U02 - Subjects/Algebra III/Clases/Clase.md",
+    "01 - University/U02 - Subjects/Algebra III/Clases",
+    "00 - Meta/Templates/T01 - Daily Note.md",
+    "00 - Meta/M01 - Overview.md",
+    "02 - Sirius/S01 - Overview.md",
+    "03 - Personal/P01 - Overview.md",
+    "01 - University/U02 - Subjects/Algebra III/Evaluaciones",
+    "Untitled.canvas",
+    "01 - University/U02 - Subjects",
+    "01 - University/U02 - Subjects/Trabajo de Grado/assets/Reglamento de la carrera - Trabajo de GRado.pdf"
+  ]
+}
