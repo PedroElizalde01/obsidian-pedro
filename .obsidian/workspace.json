@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8e19df4ce77e5049",
+        "id": "5b2b1f6eea827aa0",
         "type": "tabs",
         "children": [
           {
-            "id": "70adcbebef77f685",
+            "id": "69c299b25c8f2592",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "edcce2d87ebfc66f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - University/U01 - Overview.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "U01 - Overview"
-            }
-          },
-          {
-            "id": "b117eb48222a2b1a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "01 - University/U02 - Subjects/Direccion de Proyectos/DIRPROY - Overview.md",
-                "bFile": "01 - University/U02 - Subjects/Direccion de Proyectos/DIRPROY - Overview.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: DIRPROY - Overview"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Daily/2025-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2025-03-27"
             }
           },
           {
@@ -139,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Daily/2025-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2025-03-27"
             }
           },
           {
@@ -162,30 +133,6 @@
             }
           },
           {
-            "id": "2ce641c06749eac8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "af0705545820c297",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
             "id": "395b5c09600d329e",
             "type": "leaf",
             "state": {
@@ -196,11 +143,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 729.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,10 +162,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b117eb48222a2b1a",
+  "active": "395b5c09600d329e",
   "lastOpenFiles": [
+    "04 - Daily/2025-03-27.md",
+    "04 - Daily",
+    "02 - Sirius/S02 - Mandiant/DTM.md",
+    "00 - Meta/Templates/T04 - Clases.md",
+    "02 - Sirius/S02 - Mandiant/Wookie/daily/MATI - 2025-03-27.md",
+    "02 - Sirius/S02 - Mandiant/Wookie/Wookie.md",
+    "00 - Meta/Templates/T01 - Daily Note General.md",
+    "02 - Sirius/S02 - Mandiant/MATI - Overview.md",
+    "00 - Meta/Templates/T03 - Parciales.md",
+    "00 - Meta/Templates/T05 - Daily Note Work.md",
+    "00 - Meta/Templates/T02 - Subject Overview.md",
+    "02 - Sirius/S02 - Mandiant/Wookie/daily",
+    "02 - Sirius/S02 - Mandiant/Wookie",
+    "02 - Sirius/S01 - Overview.md",
+    "02 - Sirius/S02 - Mandiant",
+    "01 - University/U02 - Subjects/Algebra III/ALG - Overview.md",
     "01 - University/U01 - Overview.md",
     "01 - University/U02 - Subjects/Direccion de Proyectos/DIRPROY - Overview.md",
+    "01 - University/Profesores.md",
     "01 - University/U02 - Subjects/Trabajo de Grado/TG - Overview.md",
     "GENERAL OVERVIEW.md",
     "00 - Meta/Templates/T05 - Overview.md",
@@ -230,29 +194,11 @@
     "01 - University/U02 - Subjects/Sistemas Distribuidos",
     "01 - University/U02 - Subjects/Lab 4",
     "01 - University/U02 - Subjects/Investigacion Operativa/IO - Overview.md",
-    "01 - University/Profesores.md",
-    "01 - University/U02 - Subjects/Algebra III/ALG - Overview.md",
     "01 - University/U02 - Subjects/Fisica Electro/ELECTRO - Overview.md",
-    "01 - University/U02 - Subjects/Microeconomia/MIC - Overview.md",
-    "01 - University/U02 - Subjects/PPS/PPS - Overview.md",
-    "01 - University/U02 - Subjects/Algebra III/Clases/2025-03-24 .md",
-    "00 - Meta/Templates/T04 - Clases.md",
-    "01 - University/U02 - Subjects/Direccion de Proyectos/Clases/2025-03-24 .md",
-    "01 - University/U02 - Subjects/Investigacion Operativa/Clases/2025-03-24 .md",
-    "01 - University/U02 - Subjects/Algebra III/Clases/1.md",
     "01 - University/U02 - Subjects/Investigacion Operativa/Clases",
     "01 - University/U02 - Subjects/Microeconomia/Clases",
     "01 - University/U02 - Subjects/Fisica Electro/Clases",
     "01 - University/U02 - Subjects/Direccion de Proyectos/Clases",
-    "01 - University/U02 - Subjects/Algebra III/Clases/Clase.md",
-    "01 - University/U02 - Subjects/Algebra III/Clases",
-    "00 - Meta/Templates/T01 - Daily Note.md",
-    "00 - Meta/M01 - Overview.md",
-    "02 - Sirius/S01 - Overview.md",
-    "03 - Personal/P01 - Overview.md",
-    "01 - University/U02 - Subjects/Algebra III/Evaluaciones",
-    "Untitled.canvas",
-    "01 - University/U02 - Subjects",
-    "01 - University/U02 - Subjects/Trabajo de Grado/assets/Reglamento de la carrera - Trabajo de GRado.pdf"
+    "Untitled.canvas"
   ]
 }

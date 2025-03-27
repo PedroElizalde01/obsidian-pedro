@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendarDays",
       "LiSettings",
       "LiApple",
       "LiStar",
-      "LiAmphora",
-      "LiCodesandbox"
+      "LiAmphora"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,9 @@
   "03 - Personal": {
     "iconName": "LiAmphora",
     "iconColor": "#23a425"
+  },
+  "04 - Daily": {
+    "iconName": "LiCalendarDays",
+    "iconColor": "#3ea6a8"
   }
 }
