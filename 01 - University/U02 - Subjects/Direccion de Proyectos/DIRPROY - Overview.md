@@ -23,3 +23,7 @@ aliases:
 ## Bibliografía
 - [Lexicon of Project Management Terms Archivo](https://campusvirtual.austral.edu.ar/mod/resource/view.php?id=1679519)
 - [Harvard - Competency Dictionary Archivo](https://campusvirtual.austral.edu.ar/mod/resource/view.php?id=1679520)
+
+---
+Clases
+- [[2025-03-27  - Gestion de Costos en Proyectos]]

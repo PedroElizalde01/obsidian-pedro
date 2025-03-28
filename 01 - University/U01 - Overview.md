@@ -10,9 +10,8 @@ LIST WITHOUT ID "[[" + file.path + "|" + aliases[0] + "]]"
 FROM "01 - University/U02 - Subjects"
 WHERE contains(tags, "OVERVIEW") AND contains(tags, "2C")
 ```
----
----
 
+---
 # [[Profesores]]
 
 ```dataview

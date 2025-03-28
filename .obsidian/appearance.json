@@ -1,4 +1,8 @@
 {
-  "accentColor": "#3f9fcf",
-  "cssTheme": "Minimal"
+  "accentColor": "#6990a5",
+  "cssTheme": "Encore",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "headers"
+  ]
 }

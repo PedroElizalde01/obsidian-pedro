@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2b1f6eea827aa0",
+        "id": "30074418fd7684d8",
         "type": "tabs",
         "children": [
           {
-            "id": "69c299b25c8f2592",
+            "id": "dc5c54f43da6cc4c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1C",
+                "query": "List",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378.5
   },
   "right": {
     "id": "409238b84c90cf07",
@@ -141,13 +141,47 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b3b9cc3e2655d271",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "095b0fadacd7488f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "ecc23b490436d99e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 429.5
+    "width": 282
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,41 +198,52 @@
   },
   "active": "395b5c09600d329e",
   "lastOpenFiles": [
-    "04 - Daily/2025-03-27.md",
-    "04 - Daily",
-    "02 - Sirius/S02 - Mandiant/DTM.md",
-    "00 - Meta/Templates/T04 - Clases.md",
-    "02 - Sirius/S02 - Mandiant/Wookie/daily/MATI - 2025-03-27.md",
-    "02 - Sirius/S02 - Mandiant/Wookie/Wookie.md",
-    "00 - Meta/Templates/T01 - Daily Note General.md",
-    "02 - Sirius/S02 - Mandiant/MATI - Overview.md",
-    "00 - Meta/Templates/T03 - Parciales.md",
-    "00 - Meta/Templates/T05 - Daily Note Work.md",
-    "00 - Meta/Templates/T02 - Subject Overview.md",
-    "02 - Sirius/S02 - Mandiant/Wookie/daily",
-    "02 - Sirius/S02 - Mandiant/Wookie",
-    "02 - Sirius/S01 - Overview.md",
-    "02 - Sirius/S02 - Mandiant",
-    "01 - University/U02 - Subjects/Algebra III/ALG - Overview.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Clases/2025-03-27  - Gestion de Costos en Proyectos.md",
     "01 - University/U01 - Overview.md",
+    "04 - Daily/28-03-25.md",
+    "04 - Daily/Untitled.md",
+    "00 - Meta/Templates/T01 - Daily Note General.md",
+    "04 - Daily/27-03-25.md",
+    "03 - Personal/P01 - Overview.md",
+    "03 - Personal/P02 - Projects/Firefox Extension - Web Page Pin Blocker.md",
+    "03 - Personal/P02 - Projects",
+    "01 - University/U02 - Subjects/Microeconomia/MIC - Overview.md",
+    "01 - University/U02 - Subjects/Investigacion Operativa/Clases/28-03-25 .md",
+    "00 - Meta/Templates/T04 - Clases.md",
+    "01 - University/U02 - Subjects/Algebra III/Clases/2025-03-28 .md",
+    "04 - Daily/2025-03-27.md",
+    "04 - Daily/2025-03-28.md",
     "01 - University/U02 - Subjects/Direccion de Proyectos/DIRPROY - Overview.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Análisis del Valor Ganado (EVM).md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Planificar la Gestion de los Costos.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Clases/2025-03-27.md",
     "01 - University/Profesores.md",
-    "01 - University/U02 - Subjects/Trabajo de Grado/TG - Overview.md",
-    "GENERAL OVERVIEW.md",
-    "00 - Meta/Templates/T05 - Overview.md",
-    "00 - Meta/Templates/s.md",
-    "test.md",
-    "Untitled.md",
-    "01 - University/U02 - Subjects/Lab 4/LAB4 - Overview.md",
-    "01 - University/U02 - Subjects/Sistemas Distribuidos/SD - Overview.md",
-    "01 - University/U02 - Subjects/Sistemas Distribuidos",
-    "01 - University/U02 - Subjects/Lab 4",
-    "01 - University/U02 - Subjects/Investigacion Operativa/IO - Overview.md",
-    "01 - University/U02 - Subjects/Fisica Electro/ELECTRO - Overview.md",
-    "01 - University/U02 - Subjects/Investigacion Operativa/Clases",
-    "01 - University/U02 - Subjects/Microeconomia/Clases",
-    "01 - University/U02 - Subjects/Fisica Electro/Clases",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204004.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327203925.png",
+    "imagen_analisis_variaciones.jpg.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327205430.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets",
+    "Untitled.canvas",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Controlar los Costos.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204540.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Determinar el Presupuesto.md",
+    "00 - Meta/Templates/T05 - Daily Note Work.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204508.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204356.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204336.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Estimar Costos.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204310.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/assets/Pasted image 20250327204036.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Conceptos Recurrentes en Gestión de Proyectos.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Actividades",
+    "00 - Meta/M01 - Overview.md",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos/Untitled",
+    "Pasted image 20250327192035.png",
+    "01 - University/U02 - Subjects/Direccion de Proyectos/Conceptos",
     "01 - University/U02 - Subjects/Direccion de Proyectos/Clases",
-    "Untitled.canvas"
+    "01 - University/U02 - Subjects/Microeconomia/Clases",
+    "04 - Daily",
+    "02 - Sirius/S02 - Mandiant/Wookie/daily",
+    "02 - Sirius/S02 - Mandiant/Wookie"
   ]
 }

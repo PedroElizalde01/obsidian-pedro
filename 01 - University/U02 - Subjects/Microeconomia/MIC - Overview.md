@@ -19,3 +19,7 @@ aliases:
 
 ## Bibliografía
 - 
+
+---
+# Clases 
+[[MIC - 2025-03-27]]

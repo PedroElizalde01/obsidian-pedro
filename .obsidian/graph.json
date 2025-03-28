@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"00 - Meta/Templates\"  ",
@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "file:GENERAL ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
       "query": "tag:#PARCIAL",
       "color": {
         "a": 1,
@@ -62,18 +55,25 @@
         "a": 1,
         "rgb": 11621088
       }
+    },
+    {
+      "query": "tag:DAILY",
+      "color": {
+        "a": 1,
+        "rgb": 5429216
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.171875,
-  "lineSizeMultiplier": 1.9375,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.52916666666667,
   "collapse-forces": false,
-  "centerStrength": 0.356770833333333,
-  "repelStrength": 0.989583333333333,
-  "linkStrength": 1,
+  "centerStrength": 0.328125,
+  "repelStrength": 7.08333333333333,
+  "linkStrength": 0.171875,
   "linkDistance": 30,
-  "scale": 0.3126508657043989,
+  "scale": 0.14335307314250745,
   "close": true
 }
